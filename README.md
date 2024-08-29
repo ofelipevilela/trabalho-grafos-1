@@ -1,4 +1,4 @@
-codigo para compilacao:
+##CODIGO PARA COMPILAÇAO:
 
 g++ *.cpp -o execGrupoX
 
