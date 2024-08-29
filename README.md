@@ -1,3 +1,5 @@
+*PRECISA DE WSL PARA COMPILAR !*
+
 CODIGO PARA COMPILAÇAO:
 
 g++ *.cpp -o execGrupoX
